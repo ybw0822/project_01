@@ -1,0 +1,8 @@
+# 忽略index.css这个文件
+index.css
+
+# 忽略.DS_Store 这个文件
+.DS_Store
+
+# 忽略 test 目录下所有的文件
+test/
